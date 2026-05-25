@@ -45,7 +45,7 @@ NeuByte Technologies maintains a growing portfolio of repositories representing 
 
 ## Shared Infrastructure
 - .github — Organization‑wide templates, workflows, and profile
-- Standards for issues, pull requests, and contribution guidelines
+Standards for issues, pull requests, and contribution guidelines
 
 ## Branding & Identity
 NeuByte Technologies follows a consistent design system:
