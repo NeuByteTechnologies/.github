@@ -11,20 +11,20 @@ Our mission is simple:
 NeuByte Technologies specializes in:
 
 - **Systems & Business Analysis**
- - Use cases, workflows, and system behavior modeling
- - Requirements gathering and cross‑team communication
- - Legacy modernization and system decomposition
- - Documentation‑driven architecture
+  - Use cases, workflows, and system behavior modeling
+  - Requirements gathering and cross‑team communication
+  - Legacy modernization and system decomposition
+  - Documentation‑driven architecture
 -  **Data Engineering & BI**
- - SQL‑driven data modeling and transformation
- - ETL/ELT workflow design
- - Reporting, analytics, and data quality improvement
- - Cloud‑ready data architecture (Azure, AWS patterns)
+  - SQL‑driven data modeling and transformation
+  - ETL/ELT workflow design
+  - Reporting, analytics, and data quality improvement
+  - Cloud‑ready data architecture (Azure, AWS patterns)
 -  **Software & Integration Engineering**
- - API design and integration patterns
- - Enterprise system interoperability
- - Modernization of legacy platforms
- - Tooling, automation, and developer experience
+  - API design and integration patterns
+  - Enterprise system interoperability
+  - Modernization of legacy platforms
+  - Tooling, automation, and developer experience
 
 ## NeuByte Ecosystem
 NeuByte Technologies maintains a growing portfolio of repositories representing real‑world systems, documentation, and engineering patterns.
